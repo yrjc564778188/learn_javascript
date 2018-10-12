@@ -11,7 +11,7 @@
             "program": "${file}"
             "stopOnEntry": false,
             "args": [],
-            "cwd": "${workspaceRoot}",
+            "cwd": "${fileDirname}",
             "preLaunchTask": null,
             "runtimeExecutable": null,
             "runtimeArgs": [
