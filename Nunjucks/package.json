@@ -1,0 +1,22 @@
+{
+    "name": "Nunjucks",
+    "version": "1.0.0",
+    "description": "Hello Nunjucks",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+        "koa",
+        "async"
+    ],
+    "author": "LT",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:yrjc564778188/learn_javascript.git"
+    },
+    "dependencies": {
+        "nunjucks": "2.4.2"
+    }
+}
